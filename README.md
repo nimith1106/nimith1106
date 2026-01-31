@@ -6,10 +6,9 @@
 
 <hr>
 <h3>Connect with me</h3>
-
 <div align="center">
   <a href="nimithnimi1106@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=nimithnimi1106@gmail&color=D14836&logoColor=white&labelColor=black&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nimith-o-39b092331" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
