@@ -1,8 +1,9 @@
-<h1 align="center">Nimith</h1>
+<h1 align="center">Nimith O</h1>
 <p align="center">Aspiring Software Engineer</p>
 <h2> About me</h2>
 <h2 align="left">Hi 👋! I'm Nimith</h2>
-<p>Aspiring Software Engineer | Computer Science Student </p>
+<p>Aspiring Software Engineer | Computer Science Student </p><br>
+<p>Interested in being a Full Stack Developer </p>
 
 <hr>
 <h3>Connect with me</h3>
